@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TMDB-Movie",
+    "slug": "TMDB-Movie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
