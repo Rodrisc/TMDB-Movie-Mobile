@@ -1,33 +1,3 @@
-## Tarefa 1: Criar uma aplicação mobile integrado com a API da Movie Database 
-
-
-```
-A API da Movie Database é um banco de dados de filmes e TV criado pela comunidade.
-```
-
-https://www.themoviedb.org/login?language=pt-BR
-
-Este artigo no medium mostra como pode ser utilizado a api: https://medium.com/@murillo.welsi/testando-uma-api-de-filmes-com-postman-80f2efe8ccea
-
-**Documentação da API:** https://developers.themoviedb.org/3/getting-started/introduction
-
-A aplicação mobile deve possuir 3 telas: 
-
-* 1 - Login 
-* 2 - Após login, deve ser listado os filmes mais bem avaliados.
-* 3 - Ao clicar em um filme, deve ser possível visualizar algumas informações básicas: titulo, data de lançamento, categoria, nota, sinopse...
-
-```
-A aplicação deve ser desenvolvida em React native ou flutter.
-```
-
-**1. Organização do código e boas práticas de programação são diferenciais.**
-
-**2. Após entregue, a LogAp pode solicitar que o código seja apresentado e
-explicado.**
-
-
-##
 
 ## Métodos para executar a aplicação:
 
