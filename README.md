@@ -1,4 +1,3 @@
-##
 
 ## Métodos para executar a aplicação:
 
