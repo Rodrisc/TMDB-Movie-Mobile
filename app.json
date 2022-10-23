@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TMDB-Movie",
-    "slug": "TMDB-Movie",
+    "name": "tmdb-movie",
+    "slug": "tmdb-movie",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
